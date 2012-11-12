@@ -1,4 +1,4 @@
-server
+Aggregator
 ======
 
-Whiskey Server
+Whiskey Aggregator
